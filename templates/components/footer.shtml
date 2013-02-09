@@ -9,10 +9,7 @@
 
 <script type="text/javascript">
 	var _gaq = _gaq || [];
-	/**
-		Note that the UA string may change dependent on client needs
-	*/
-	_gaq.push(['_setAccount', 'UA-38377658-1']);
+	_gaq.push(['_setAccount', 'UA-XXXXXX-XXX']);
 	_gaq.push(['_trackPageview']);
 
 	(function() {
