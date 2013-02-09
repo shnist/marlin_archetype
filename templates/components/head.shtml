@@ -3,23 +3,9 @@
 		<meta charset="UTF-8">
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<meta name="keywords" content="">
 		<meta name="robots" content="all,index,follow">
 		<meta name="distribution" content="global">
 
-		<meta property="og:title" content="">
-		<meta property="og:type" content="">
-		<meta property="og:url" content="">
-		<meta property="og:image" content="">
-		<meta property="og:site_name" content="">
-		<meta property="fb:admins" content="">
-		<meta property="og:description"	content="">
-
 		<!-- favicon -->
 		<link rel="shortcut icon" href="#">
-		<link rel="stylesheet" href="assets/css/style.css" media="screen">
-		<!--[if IE 9]><link rel="stylesheet" href="assets/css/ie9.css" media="screen"><![endif]-->
-		<!--[if IE 8]><link rel="stylesheet" href="assets/css/ie8.css" media="screen"><![endif]-->
-		<!--[if IE 7]><link rel="stylesheet" href="assets/css/ie7.css" media="screen"><![endif]-->
-		<!--[if IE 6]><link rel="stylesheet" href="assets/css/ie6.css" media="screen"><![endif]-->
 	</head>
