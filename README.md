@@ -17,6 +17,10 @@ Archetype for small scale websites. Aims to use the latest techniques and best p
 * jQuery
 * Require.js
 
+## Inspirations / Acknowledgements
+
+320andup
+
 ## To Do List
 
 [] Add responsive stuff
