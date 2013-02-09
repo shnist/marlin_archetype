@@ -1,8 +1,0 @@
-<head>
-	<title> My Archetype website </title>
-	<!--#include virtual="/htmlTemplates/modules/head/meta_data.shtml" -->
-
-	<!--#include virtual="/htmlTemplates/modules/head/facebook_meta.shtml" -->
-
-	<!--#include virtual="/htmlTemplates/modules/head/stylesheets.shtml" -->
-</head>
