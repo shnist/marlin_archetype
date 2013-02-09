@@ -1,12 +1,14 @@
 # Shnist Archetype
 
-Archetype for small websites. Aims to use the latest techniques and best practices. Responsive as well, woop!
+Archetype for small scale websites. Aims to use the latest techniques and best practices.
 
-Uses grunt to run the build process. Includes CSS and JavaScript linting.
+## Features
 
-Uses less (sass?) for CSS
-
-Require.js
+* Small screen first responsive
+* Barebones Grunt included
+	* CSS linting
+	* JavaScript linting.
+	* FTP uploading
 
 ## Dependencies
 
@@ -14,5 +16,9 @@ Require.js
 	* Grunt
 * jQuery
 * Require.js
+
+## To Do List
+
+[] Add responsive stuff
 
 
