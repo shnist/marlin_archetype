@@ -33,8 +33,8 @@ JavaScript will suffer. Good.
 
 ## To Do List
 
-[] Make ios orientation fix load conditionally
-[] possibly add touch support with hammer (see if it's needed) - https://github.com/eightmedia/hammer.js
-[] make less compilation part of the grunt build process - https://github.com/gruntjs/grunt-contrib-less
-[] dynamically add correct UA string for analytics as part of build process
+* [] Make ios orientation fix load conditionally
+* [] possibly add touch support with hammer (see if it's needed) - https://github.com/eightmedia/hammer.js
+* [] make less compilation part of the grunt build process - https://github.com/gruntjs/grunt-contrib-less
+* [] dynamically add correct UA string for analytics as part of build process
 
