@@ -20,6 +20,7 @@ JavaScript will suffer. Good.
 
 * Node
 	* Grunt
+	* LESS
 * jQuery
 * Require.js
 * html5shiv - https://github.com/aFarkas/html5shiv/
@@ -33,5 +34,6 @@ JavaScript will suffer. Good.
 ## To Do List
 
 [] Make ios orientation fix load conditionally
-
+[] possibly add touch support with hammer (see if it's needed) - https://github.com/eightmedia/hammer.js
+[] make less compilation part of the grunt build process - https://github.com/gruntjs/grunt-contrib-less
 
