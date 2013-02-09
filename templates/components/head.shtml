@@ -5,6 +5,7 @@
 		<meta name="author" content="">
 		<meta name="robots" content="all,index,follow">
 		<meta name="distribution" content="global">
+		<meta name="rating" content="general" />
 
 		<!-- for all browsers -->
 		<link rel="stylesheet" href="base.css">
