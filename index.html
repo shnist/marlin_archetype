@@ -1,15 +1,118 @@
 <!DOCTYPE html>
-<!--[if IE]><![endif]-->
-<!--[if IE 8 ]><html class="no-js ie8" lang="en"><![endif]-->
-<!--[if IE 9 ]><html class="no-js ie9" lang="en"><![endif]-->
-<!--[if gt IE 9]><html class="no-js" lang="en"><![endif]-->
-<!--[if !IE]>--><html class="no-js" lang="en"><!--<![endif]-->
+<html lang="en-gb" dir="ltr">
+	<head>
+		<title>Site Name</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
- 	<!--#include virtual="/templates/components/head.shtml" -->
-
+		<style>
+			html, body {
+				margin: 0;
+				padding: 0;
+			}
+			body {
+				font-family: Helvetica, Arial, sans-serif;
+				font-size: 80%;
+				background: #EEE;
+				color: #444;
+			}
+			table {
+				width: 98%;
+				margin: 0 0 1em 0;
+				border: 1px solid #7F7F7F;
+				border-spacing: 0;
+			}
+			th {
+				text-align: left;
+			}
+			th, td {
+				padding: 0.4em;
+				vertical-align: top;
+			}
+			tbody tr:nth-of-type(even) th,
+			tbody tr:nth-of-type(even) td {
+				background-color: #F7F7F7;
+			}
+			a {
+				color: #ED1C24;
+				line-height: 1.4;
+				padding: 0.2em 0;
+			}
+			nav {
+				margin: 0;
+				padding: .2em 20px 0 20px;
+				background: #EFEFEF;
+			}
+			nav a {
+				display: block;
+				float: left;
+				padding: 0;
+			}
+			.wrapper {
+				clear: both;
+				padding: 1em 20px 0 20px;
+				border-top: 1px solid #d8d7d7;
+			}
+			section {
+				overflow: hidden;
+				width: 100%;
+				border-bottom: 2px solid #D8D7D7;
+				padding: 1.2em 0 1em 0;
+			}
+			section:last-child {
+				border-bottom: none;
+			}
+			section li span {
+				text-transform: uppercase;
+				color: #7F7F7F;
+				font-weight: bold;
+			}
+			.full table {
+				width: auto;
+			}
+			.col {
+				float: left;
+				width: 48%;
+			}
+			/* classes applied to cols giving them width */
+			.full {
+				width: 100%;
+			}
+			.third {
+				width: 30%;
+			}
+		</style>
+	</head>
 	<body>
 
-		<!--#include virtual="/templates/components/footer.shtml" -->
+		<h1>Project name</h1>
+
+		<nav>
+			<a href="https://github.com" target="_blank">Github repository</a>
+		</nav>
+
+		<div class="wrapper">
+			<section>
+				<h2>Mobile first</h2>
+				<h3>Page types</h3>
+
+				<table>
+					<thead>
+						<tr>
+							<th scope="col">Page name</th>
+							<th scope="col">Preview</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>Content elements</th>
+							<td>
+								<a href="templates/pages/pt_00.00_content_elements/index.shtml">LTR</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</section>
+		</div>
 	</body>
 </html>
-

@@ -6,6 +6,8 @@
 		<meta name="robots" content="all,index,follow">
 		<meta name="distribution" content="global">
 
-		<!-- favicon -->
-		<link rel="shortcut icon" href="#">
-	</head>
+		<!-- for all browsers -->
+		<link rel="stylesheet" href="base.css">
+
+
+</head>
