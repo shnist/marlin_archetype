@@ -4,25 +4,40 @@
 
 		<meta name="description" content="">
 		<meta name="author" content="">
+		<meta name="keywords" content="">
 		<meta name="robots" content="all,index,follow">
 		<meta name="distribution" content="global">
-		<meta name="rating" content="general" />
+		<meta name="rating" content="general">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
 		<meta name="HandheldFriendly" content="True">
+		<meta name="msapplication-tap-highlight" content="no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
 
-		<link rel="shortcut icon" href="/assets/image/icons/favicon.ico" />
+		<link rel="shortcut icon" href="/assets/image/icons/favicon.ico">
 
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/image/icons/apple_touch_icon_114x114.png" />
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/image/icons/apple_touch_icon_72x72.png" />
-        <link rel="apple-touch-icon-precomposed" href="/assets/image/icons/apple_touch_icon_57x57.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/image/icons/apple_touch_icon_114x114.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/image/icons/apple_touch_icon_72x72.png">
+		<link rel="apple-touch-icon-precomposed" href="/assets/image/icons/apple_touch_icon_57x57.png">
 
-        <meta name="msapplication-TileImage" content="/assets/image/icons/msapp_icon_144x144.png">
-        <meta name="msapplication-TileColor" content="#222222">
+		<meta name="msapplication-TileImage" content="/assets/image/icons/msapp_icon_144x144.png">
+		<meta name="msapplication-TileColor" content="#222222">
 
 		<!-- for all browsers -->
 		<link rel="stylesheet" href="fonts.css">
 		<link rel="stylesheet" href="base.css">
 
+		<!--[if lte IE 8]-->
+		<link rel="stylesheet" href="/assets/style/large_desktop.css">
+		<!--[endif]-->
 
+		<!--[if (gte IE 9)|!(IE)]-->
+		<!-- This comment means that non-IE browsers will parse the following -->
+		<link rel="stylesheet" href="/assets/style/mobile.css" media="screen and (max-width: 599px)" />
+		<link rel="stylesheet" href="/assets/style/tablet.css" media="screen and (min-width: 600px) and (max-width: 959px)" />
+		<link rel="stylesheet" href="/assets/style/desktop.css" media="screen and (min-width: 960px) and (max-width: 1199px)" />
+		<link rel="stylesheet" href="/assets/style/large_desktop.css" media="screen and (min-width: 1200px)" />
+		<!--[endif]-->
 </head>

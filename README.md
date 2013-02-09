@@ -22,12 +22,13 @@ JavaScript will suffer. Good.
 	* Grunt
 * jQuery
 * Require.js
+* html5shiv - https://github.com/aFarkas/html5shiv/
+* ios orientation fix (fixed for ios6)- https://github.com/scottjehl/iOS-Orientationchange-Fix
 
 ## Inspirations / Acknowledgements
 
 320andup
 
-html5shiv - https://github.com/aFarkas/html5shiv/
 
 ## To Do List
 

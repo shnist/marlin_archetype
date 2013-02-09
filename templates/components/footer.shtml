@@ -2,4 +2,5 @@
 
 <script src="/assets/script/library/third_party/html5shiv.js"></script>
 <script src="/assets/script/library/third_party/jquery.js"></script>
+<script src="/assets/script/library/third_party/ios_orientation_fix.js"></script>
 <script src="/assets/script/library/third_party/require.js"></script>
