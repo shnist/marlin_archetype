@@ -1,13 +1,27 @@
 <head>
 		<title> My Archetype website </title>
 		<meta charset="UTF-8">
+
 		<meta name="description" content="">
 		<meta name="author" content="">
 		<meta name="robots" content="all,index,follow">
 		<meta name="distribution" content="global">
 		<meta name="rating" content="general" />
 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="HandheldFriendly" content="True">
+
+		<link rel="shortcut icon" href="/assets/image/icons/favicon.ico" />
+
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/image/icons/apple_touch_icon_114x114.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/image/icons/apple_touch_icon_72x72.png" />
+        <link rel="apple-touch-icon-precomposed" href="/assets/image/icons/apple_touch_icon_57x57.png" />
+
+        <meta name="msapplication-TileImage" content="/assets/image/icons/msapp_icon_144x144.png">
+        <meta name="msapplication-TileColor" content="#222222">
+
 		<!-- for all browsers -->
+		<link rel="stylesheet" href="fonts.css">
 		<link rel="stylesheet" href="base.css">
 
 
