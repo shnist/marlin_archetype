@@ -32,6 +32,6 @@ JavaScript will suffer. Good.
 
 ## To Do List
 
-[] Add responsive stuff
+[] Make ios orientation fix load conditionally
 
 
