@@ -1,21 +1,11 @@
 {
-  "name": "project name here",
-  "description": "projectd description here",
+  "name": "project name",
+  "description": "project description",
   "version": "0.0.1",
   "author": "Aaron Faber",
   "licenses": "MIT",
   "preferGlobal": true,
   "dependencies": {
-    "grunt": "0.3.13",
-    "grunt-css": "0.2.1",
-    "grunt-contrib-requirejs": "~0.3.3",
-    "grunt-rm": "0.0.3",
-    "grunt-contrib-mincss": "~0.3.2",
-    "grunt-contrib-less": "~0.3.2",
-    "grunt-contrib-copy": "~0.3.2",
-    "grunt-contrib-clean": "0.3.1"
+    "grunt": "0.3.13"
   }
-  // , "devDependencies": {
-  //   "grunt-shell": "~0.1.4"
-  // }
 }
