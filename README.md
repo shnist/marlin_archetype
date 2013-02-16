@@ -47,12 +47,11 @@ JavaScript will suffer. Good.
 	- javascript linting
 	- unit testing (mocha, jasmine or qunit?)
 	- deployment to server (ftp? ssh?)
-- Installing process that fills out all the stuff you need
+- Installing process that fills out all the stuff you need - marlin archetype generator - node based service
 	- dynamically add correct UA string for analytics as part of build process
 	- less variable fill in
 - [] add example icons for favicon and iphone stuff, etc.
 - [] read up on require.js
-- [] read up on less
-- [] add barebones less styles, some common variables, etc.
+- [] less - basic.less - add common basic styling through the site, possibly along the lines of a reset
 
 
