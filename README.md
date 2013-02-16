@@ -50,6 +50,7 @@ JavaScript will suffer. Good.
 - Installing process that fills out all the stuff you need - marlin archetype generator - node based service
 	- dynamically add correct UA string for analytics as part of build process
 	- less variable fill in
+	- ftp deployment details
 - [] add example icons for favicon and iphone stuff, etc.
 - [] read up on require.js
 - [] less - basic.less - add common basic styling through the site, possibly along the lines of a reset
