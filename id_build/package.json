@@ -1,24 +1,25 @@
 {
-  "name": "ProjectName",
-  "description": "Project description goes here",
-  "version": "0.0.1",
-  "author": "Author name goes here",
-  "engines": {
-    "node": "~0.8.0"
-  },
-  "dependencies": {
-    "grunt": "0.3.13",
-    "temporary": "0.0.4",
-    "grunt-jslint": "~0.2.0",
-    "grunt-css": "~0.4.0",
-    "grunt-html": "~0.3.0",
-    "grunt-contrib-mincss": "~0.3.2",
-    "grunt-contrib-copy": "~0.3.2",
-    "grunt-contrib-clean": "0.3.1",
-    "grunt-jasmine-task": "~0.2.1"
-  },
-  "devDependencies": {
-    "grunt-shell": "~0.1.4",
-    "grunt-contrib-less": "~0.3.2"
-  }
+	"name": "ProjectName",
+	"description": "Project description goes here",
+	"version": "0.0.1",
+	"author": "Author name goes here",
+	"engines": {
+		"node": "~0.8.0"
+	},
+	"dependencies": {
+		"grunt": "0.3.13",
+		"temporary": "0.0.4",
+		"grunt-jslint": "~0.2.0",
+		"grunt-css": "~0.4.0",
+		"grunt-html": "~0.3.0",
+		"grunt-contrib-mincss": "~0.3.2",
+		"grunt-contrib-copy": "~0.3.2",
+		"grunt-contrib-clean": "0.3.1",
+		"grunt-jasmine-task": "~0.2.1",
+		"grunt-ftp-deploy": "0.0.7"
+	},
+	"devDependencies": {
+		"grunt-shell": "~0.1.4",
+		"grunt-contrib-less": "~0.3.2"
+	}
 }
