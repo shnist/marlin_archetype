@@ -47,7 +47,9 @@ JavaScript will suffer. Good.
 	- javascript linting
 	- unit testing (mocha, jasmine or qunit?)
 	- deployment to server (ftp? ssh?)
-- [] dynamically add correct UA string for analytics as part of build process
+- Installing process that fills out all the stuff you need
+	- dynamically add correct UA string for analytics as part of build process
+	- less variable fill in
 - [] add example icons for favicon and iphone stuff, etc.
 - [] read up on require.js
 - [] read up on less
