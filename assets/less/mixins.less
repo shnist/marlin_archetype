@@ -1,0 +1,15 @@
+// Mixins
+// Mostly used to abstract away browser prefixes
+
+
+.borderRadius (@radius: 5px) {
+	border-radius: @radius;
+	-moz-border-radius: @radius;
+	-webkit-border-radius: @radius;
+}
+
+.boxShadow (@displacement: 0, @distance: 0, @blur: 1px, @colour:rgba(50,50,50,0.75)) {
+	box-shadow: @arguments;
+	-moz-box-shadow: @arguments;
+	-webkit-box-shadow: @arguments;
+}
