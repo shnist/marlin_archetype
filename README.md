@@ -36,7 +36,14 @@ JavaScript will suffer. Good.
 - [] Make ios orientation fix load conditionally
 - [] possibly add touch support with hammer (see if it's needed) - https://github.com/eightmedia/hammer.js
 - [] flesh out the grunt build task
-	- [] make less compilation part of the grunt build process - https://github.com/gruntjs/grunt-contrib-less
+	- css linting
+	- less compilation - https://github.com/gruntjs/grunt-contrib-less
+	- html validation (on shtml files?)
+	- concatentation
+	- minification (optional?)
+	- javascript linting
+	- unit testing (mocha, jasmine or qunit?)
+	- deployment to server (ftp? ssh?)
 - [] dynamically add correct UA string for analytics as part of build process
 - [] add example icons for favicon and iphone stuff, etc.
 - [] read up on require.js
