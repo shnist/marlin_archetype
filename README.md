@@ -26,6 +26,9 @@ JavaScript will suffer. Good.
 * html5shiv - https://github.com/aFarkas/html5shiv/
 * ios orientation fix (fixed for ios6)- https://github.com/scottjehl/iOS-Orientationchange-Fix
 
+* Less syntax highlighting - shnist theme + https://github.com/danro/LESS-sublime
+
+
 ## Inspirations / Acknowledgements
 
 320andup
